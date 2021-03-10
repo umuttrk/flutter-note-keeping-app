@@ -1,6 +1,6 @@
 # not_sepeti
 
-A new Flutter application.
+using sqflite CRUD operations
 
 ## Getting Started
 
